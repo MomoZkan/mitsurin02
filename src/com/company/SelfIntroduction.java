@@ -1,4 +1,4 @@
-package com.company
+package com.company;
 
 public class SelfIntroduction {
     public static void printName(String name) {
