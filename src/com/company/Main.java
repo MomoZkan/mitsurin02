@@ -6,5 +6,7 @@ public class Main {
 	// write your code here
         System.out.println("emperor参上");
         System.out.println("Garuvan見参");
+
+        SelfIntroduction.printName("mitsurin");
     }
 }
